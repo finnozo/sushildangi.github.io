@@ -50,7 +50,7 @@ const Header = () => {
             <a href="/#projects">Projects</a>
           </li>
           <li>
-            <a href="/#blog">Blog</a>
+          <a href="https://blog.sushildangi.online">My Blogs</a>
           </li>
           <li>
             <a href="/#contact">Contact</a>
